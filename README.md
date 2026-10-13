@@ -1,3 +1,3 @@
-# Lab_WebJS_CafeOrigen
+# Pagina Web Cafe Origen 
 
-Jhoiner26
+Autor: Jhoiner Andretty Silva Montaño
